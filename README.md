@@ -11,5 +11,5 @@ list in a text file.
 - **requests** *(in OSX `sudo pip install requests`)*
 - **BeautifulSoup4** *(in OSX `sudo pip install BeautifulSoup4`)*
 - **lxml** *(in OSX `sudo pip install lxml`)*
-2. Download python file.
+2. Download python file **get_images_from_url.py**.
 3. Run python file *(in OSX `python /Users/.../get_images_from_url.py`)* and follow instructions
